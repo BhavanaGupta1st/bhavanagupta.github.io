@@ -1,40 +1,23 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Bhavana Gupta's Portfolio
 
+Welcome to my personal portfolio website! This site showcases my work, projects, and journey. Here, you'll find information about my experience in software engineering, data science, and machine learning.
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+## Sections
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+- **Intro:** A brief introduction to who I am and what I do.
+- **Highlights:** A showcase of my key projects, accomplishments and journey.
+- **About Me:** A deeper dive into my background, skills, and personal journey.
 
-http://ineedchemicalx.deviantart.com/
+## Technologies Used
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+- **HTML/CSS:** For structure and styling of the website.
+- **JavaScript:** To add interactivity and dynamic content.
+- **SCSS:** For organized and modular styling.
+- **jQuery:** Simplifies DOM manipulation and event handling.
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+## Connect with Me
 
-(* = Not included)
+- **[LinkedIn](https://www.linkedin.com/in/bhavanagupta1st/)**
+- **[GitHub](https://github.com/BhavanaGupta1st)**
 
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to reach out if you'd like to connect or collaborate on projects!
